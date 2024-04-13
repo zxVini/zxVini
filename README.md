@@ -1,0 +1,6 @@
+- 👋 Olá, sou Vini, um desenvolvedor Front-End apaixonado por criar experiências incríveis na web.
+- 👀 Estou interessado em tecnologias como HTML, CSS, JavaScript e Lua.
+- 🌱 Atualmente estou aprimorando minhas habilidades em desenvolvimento web e explorando novas técnicas em Lua.
+- 📫 Você pode me encontrar através do meu e-mail [contatozvinion@gmail.com].
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato divertido: Sempre me empolgo com a possibilidade de usar animações CSS para dar vida aos meus projetos!
